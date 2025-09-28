@@ -173,7 +173,7 @@ Ideas for improvement:
 ---
 
 ## 🙏 Acknowledgements
-
+Special thanks to my dear supervisor **Prof. Sahnoun Ali** for his invaluable guidance and support throughout this project.
 * Professors and supervisors from Constantine 2 University
 * Open-source communities (TensorFlow, Arduino, Flask)
 * Inspiration from IoT-based smart city projects
